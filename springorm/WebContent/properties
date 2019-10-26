@@ -1,0 +1,8 @@
+dc=oracle.jdbc.driver.OracleDriver
+url=jdbc:oracle:thin:@localhost:1521:ORCL
+un=scott
+pw=yaswanth
+dialect=org.hibernate.dialect.OracleDialect
+sq=true
+fq=true
+h2update
