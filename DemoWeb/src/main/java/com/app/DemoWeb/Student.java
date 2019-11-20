@@ -2,7 +2,7 @@ package com.app.DemoWeb;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+@XmlRootElement	// hello
 public class Student {
 
 	private String name;
