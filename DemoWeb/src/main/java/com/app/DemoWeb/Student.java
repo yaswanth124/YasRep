@@ -6,6 +6,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 public class Student {
 
 	private String name;
+	
+	Private int k;
 	private int points;
 	public Student() {
 		super();
